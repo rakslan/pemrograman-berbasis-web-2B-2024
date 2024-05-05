@@ -1,0 +1,22 @@
+.img-fluid {
+    width: 1500px;
+    height: 700px;
+    margin-bottom: 50px;
+}
+
+.col {
+    display:flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    margin-bottom: 50px;
+    background-color: darksalmon;
+    background-size: 700px;
+}
+
+.img-thumbnail {
+    margin-left: 50px;
+}
+
+.text {
+    text-align: right;
+}
